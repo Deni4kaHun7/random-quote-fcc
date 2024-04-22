@@ -1,0 +1,20 @@
+$color: rgb(115, 168 , 87);
+
+body {
+    background-color: $color;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Raleway, sans-serif;
+  }
+  
+  
+  #quote-box, #text {
+    background-color: white;
+    padding: 40px 50px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 1.75em;
+    border-radius: 3px;
+    }
